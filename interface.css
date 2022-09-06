@@ -1,0 +1,142 @@
+.heading{
+    text-align: center;
+    font-family: "Roboto";
+    color: red;
+}
+#item1{
+    color: #ffffffff;
+}
+#item2{
+    color: #ffffffff;
+
+}
+#item3{
+    color: #ffffffff;
+}
+.before-covid{
+    padding: 50px;
+    /* text-align: center; */
+    background-color: aqua;
+    border-radius: 50px;
+    margin-top: 50px;
+    margin-right: 70px;
+
+    
+}
+.after-covid{
+    /* text-align: right; */
+    padding: 30px;
+    /* text-align: center; */
+    background-color: aqua;
+    border-radius: 50px;
+    margin-top: 50px;
+    margin-left: 70px;
+
+}
+.info{
+    text-align: center;
+    /* background-color: yellow; */
+    /* padding:5px; */
+    font-family: "roboto";
+    font-size: 24px;
+    color: maroon;
+    font-weight: bold;
+    
+}
+.arogyasetu{
+    /* padding-right: 5px; */
+    padding-left: 400px;
+    padding-top: 6px;
+    padding-right: 250px;
+}
+
+.para{
+    padding-top: 6px;
+    padding-left: 300px;
+}
+.button1{
+   margin-bottom: 100px;
+}
+.footer{
+    background-color:rgb(10, 206, 186);
+    /* background-color: rgba(158, 163, 168, 0.24); */
+    padding: 10px;
+    /* text-align: left; */
+    color: #ffffffff;
+}
+/* .f1{
+    padding-left: 250px;
+}
+.fp{
+    text-align:bottom;
+}
+.fp1{
+    padding-left: 300px;
+} */
+.follow-us-section {
+    background-color: white;
+}
+
+.follow-us-section-heading {
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 28px;
+    color: #183b56;
+    text-align: center;
+}
+
+.icon {
+    color: #d0b200;
+    font-size: 35px;
+}
+
+.follow-us-icon-container {
+    height: 80px;
+    width: 80px;
+    background-color: #faf7e8;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right: 16px;
+    padding-left: 22px;
+    margin: 16px;
+    border-radius: 40px;
+
+}
+.secondpage-bg{
+    /* background-image: url("https://img.freepik.com/free-vector/type-coronavirus-test-with-doctor_23-2148571667.jpg?t=st=1654354957~exp=1654355557~hmac=5db74b8c6bea232fadd60043ea082e240614bd6c3ca72eee0afea5cd324d39f9&w=740"); */
+    background-size: cover;
+    height: 220vh;
+    width: 600px;
+}
+.form-backgound{
+    /* background-image: url("https://img.freepik.com/free-vector/medical-background-with-abstract-virus-cells-global-pandemic_1048-12124.jpg?t=st=1653807943~exp=1653808543~hmac=b5965cdaa81c3f7c2f9fc83c9ee5e8d41e2aa8bba3f2b5dcb6082b3e1df98a97&w=996"); */
+    /* background-color: white; */
+    height: 600px;
+    width: 500px;
+    background-size: cover;
+    /* margin: 50px; */
+    margin-left:50px ;
+    margin-top: 40px;
+    
+}
+.secondpage-img{
+    margin-right: 120px;
+}
+
+.form{
+    padding: 10px;
+    text-align: left;
+
+}
+.form-gap{
+    margin: 10px;
+}
+.button2{
+    padding: 9px;
+}
+.footer-end {
+    background-color: #4c5254;
+    background-size: cover;
+    height: 5vh;
+}
+
